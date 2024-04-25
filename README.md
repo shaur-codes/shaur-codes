@@ -4,7 +4,7 @@
 
 - 📫 How to reach me ... Discord - (@shauryamishra) sometimes i am offline for a long period of time so you may wait :)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: this is my 4th github account
+- ⚡ Fun fact: this is my 4th github account (my prev accounts @shauryamishra444 & @sepiolux)
 
 <!---
 shaur-codes/shaur-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

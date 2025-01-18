@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m Shaurya Mishra (@shaur-codes)<br>🌱 I learn whatever i find interesting while exploring multiple things<br>📫 How to reach me ... Discord - (@shauryamishra) sometimes i am offline for a long period of time so you may wait :)<br>⚡ Fun fact: I have a fear of people copying my code, that's why I make them open-source😄
+👋 Hi, I’m Shaurya Mishra <br>🌱 I learn whatever i find interesting while exploring multiple things<br>📫 How to reach me ... Discord - (@shaurya.mishra)<br>⚡ Fun fact: I have a fear of people copying my code, that's why I make them open-source😄
+
 
 
 # 💻 Tech Stack:
@@ -21,6 +22,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shaur-codes&icon=7&color=0)](https://visitcount.itsvg.in)
 
+ just for fun : https://github.com/shauryamishra444/python-ransomware
   ## 💰 well.. you can buy me a coffee
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shaurcodes4) 
 
